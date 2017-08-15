@@ -1,0 +1,9 @@
+$color: #fff;
+$bg-color: orange;
+
+body div{
+  width: 500px;
+  height: 500px;
+  color: $color;
+  background-color: $bg-color;
+}
